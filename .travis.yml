@@ -1,6 +1,7 @@
 language: node_js
 node_js:
 - 9.3
+- 10
 sudo: false
 services:
   - docker
